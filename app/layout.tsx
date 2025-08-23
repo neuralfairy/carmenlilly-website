@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   title: "Carmenlilly Solutions - B2B Lead Generation Agency | AI-Powered Sales Intelligence",
   description:
     "Generate high-quality B2B leads with advanced AI tools, intelligent enrichment, and omni-channel outreach systems. Boost your sales acceleration and conversion rates.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "B2B lead generation, targeted prospecting, sales acceleration, conversion-driven lead campaigns, AI sales intelligence",
   authors: [{ name: "Carmenlilly Solutions" }],
